@@ -1,0 +1,57 @@
+name: brain.monahan
+description: solution
+version: 9.5.886
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: brainmonahan
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-02-05 06:22:39'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-02-05 06:22:39'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-02-05T06:22:39.956328Z'
+  name: plibMaven
+  version: 8.9.0-SNAPSHOT
+  id: '194851049'
+  createdAt: '2025-02-05T06:22:39.956328Z'
+  type: plibMaven
+projectDependencies:
+  '280':
+    projectUID: 280
+    projectName: vina.wolff
+    repositoryPath: gitUri=http://gitserver:3000/dev_bxHxMnu4_team_490/dev_bxHxMnu4_project_280.git&subPath=
+    version: vina.wolff/0.1.9.875
+    isDefault: false
+    author: null
+    createdAt: '2025-02-05 06:22:38'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
